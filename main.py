@@ -10,6 +10,13 @@ diff = first - second
 print(summa, diff)
 
 
+first = 3
+second = 7
+third = 14
+mean = (first + second + third) / 3
+print(mean)
+
+
 first_string = "Вторник"
 second_string = "Понедельник,"
 print(second_string, " ", first_string)
